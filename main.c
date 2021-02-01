@@ -4,6 +4,7 @@ int main(int argc,char* argv[])
 {
 	printf("hello world\n");
 	printf("i hate ");
-	printf("branch");
+	printf("I am octo");
+>>>>>>> oct
 	return 0;
 }
